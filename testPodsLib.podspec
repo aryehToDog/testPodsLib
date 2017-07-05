@@ -21,9 +21,6 @@ s.description      = <<-DESC
 testPodsLib.包含了基本的配置, 分类, 工具类等等
                     DESC
 
-TODO: Add long description of the pod here.
-                       DESC
-
   s.homepage         = 'https://coding.net/u/wangkun123/p/testPodsLib/git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
