@@ -1,0 +1,22 @@
+{
+  "name": "testPodsLib",
+  "version": "0.1.0",
+  "summary": "A short description of testPodsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aryehToDog/testPodsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aryehToDog": "1281433811@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aryehToDog/testPodsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testPodsLib/Classes/**/*"
+}
